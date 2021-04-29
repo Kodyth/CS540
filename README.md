@@ -1,6 +1,6 @@
 # CS540 - Project
 
-This file contains instructions on how to utilize the data contained in the "marina_and_boatramps_distance.csv" file. It also contains information related to all files present in this repository.
+This file contains instructions on how to utilize the data contained in the "marina_and_boatramps_distance.csv" file. It also contains information related to all files present in this repository. The problem that was addressed via this project was determining how far away a parcel was from the nearest marina and boat ramp. It was solved using a KNN search in Postgres with the parcel, marina, and boatramp information provided by the Volusia.org/gis website.
 
 # Instructions for using the data
 
